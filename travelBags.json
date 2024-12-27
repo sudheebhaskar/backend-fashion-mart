@@ -1,0 +1,200 @@
+[
+  {
+      "bagBrand": "Aristocrat",
+      "bagType": "Fencer Strolly Textured Hard-Sided Large Trolley Bag Bag- 65 cm",
+      "bagRatings": 3.5,
+      "bagPrice": 9770,
+    "discountedPrice": 3450,
+    "bagSize": "S",
+    "returnPolicy": "Easy 14 days returns and exchanges",
+    "bagDescription": "FENCER STROLLY 65 medium hard-sided textured Trolley Suitcase Metallic black trolley suitcases, secured with a combination lock",
+    "bagImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733532746/real_travelbag_1_tncviu.png"
+  },
+  {
+    "bagBrand": "Wrogn",
+      "bagType": "Flow Large Trolley Suitcase - Volume 101 litres",
+      "bagRatings": 2.7,
+      "bagPrice": 11000,
+    "discountedPrice": 3849,
+    "bagSize": "L",
+    "returnPolicy": "Easy 30 days returns and exchanges",
+    "bagDescription": "Navy blue textured large hard trolley suitcase with yellow stripe detail, secured with a combination lock",
+    "bagImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733532746/Untitled_13_zb1ix5.png"
+    },
+  {
+    "bagBrand": "Skybags",
+      "bagType": "Paratrip Hard -Sided Large Trolley Suitcase",
+      "bagRatings": 4.1,
+      "bagPrice": 3899,
+    "discountedPrice": 1259,
+    "bagSize": "L",
+    "returnPolicy": "Easy 14 days returns and exchanges",
+    "bagDescription": "Turquoise blue textured hard-sided large trolley suitcase. One handle on the top, has a retractable trolley handle with 360 degree rotatable corner-mounted inline skate wheels",
+    "bagImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733532746/Untitled_14_jdeofe.png"
+  },
+  {
+    "bagBrand": "Wildcraft",
+      "bagType": "Taupe Textured Onyx Medium Trolley Suitcase",
+      "bagRatings": 3.8,
+      "bagPrice": 9770,
+    "discountedPrice" : 4950,
+    "bagSize": "M",
+    "returnPolicy": "Easy 14 days returns and exchanges",
+    "bagDescription": "Taupe textured hard-sided trolley suitcase, secured with a number lock",
+    "bagImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733532746/Untitled_16_jfrxus.png"
+  }, 
+  {
+    "bagBrand": "American Tourister",
+      "bagType": "Georgia Textured Medium Trolley Suitcase",
+      "bagRatings": 2.9,
+      "bagPrice": 8900,
+    "discountedPrice": 3949,
+    "bagSize": "M",
+    "returnPolicy": "Easy 7 days returns and exchanges",
+    "bagDescription": "Maroon textured medium trolley suitcase, secured with a combination lock",
+    "bagImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733532746/Untitled_15_hbq8tc.png"
+  },
+  {
+    "bagBrand": "Tommy Hilfiger",
+      "bagType": "Medium Trolly Suitcase",
+      "bagRatings": 3.6,
+      "bagPrice": 12499,
+    "discountedPrice": 5699,
+    "bagSize": "S",
+    "returnPolicy": "Easy 14 days returns and exchanges",
+    "bagDescription": "Black brand logo hard trolley suitcase, secured with a TSA lock",
+    "bagImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733532747/Untitled_19_pbslay.jpg"
+  },
+  {
+    "bagBrand": "Safari",
+      "bagType": "Accent Polycarbonate 8 wheel Hard Large Trolley Suitcase 76 cm",
+      "bagRatings": 3.4,
+      "bagPrice": 13699,
+    "discountedPrice": 3049,
+    "bagSize": "L",
+    "returnPolicy": "Easy 14 days returns and exchanges",
+    "bagDescription": "Polycarbonate shell, 8 wheels, Push button telescopic trolley, Combination lock, Scratch resistant, water resistant, dust proof.",
+    "bagImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733532747/Untitled_17_ufzjxx.png"
+  },
+  {
+    "bagBrand": "VIP",
+      "bagType": "Corsa Strolly 76 360 Textured Large Trolley Suitcase",
+      "bagRatings": 2.3,
+      "bagPrice": 12200,
+    "discountedPrice": 7599,
+    "bagSize": "M",
+    "returnPolicy": "Easy 14 days returns and exchanges",
+    "bagDescription": "Blue textured large trolley suitcase, secured with a combination lock",
+    "bagImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733532747/Untitled_18_c8vypy.png"
+  },
+  {
+     "bagBrand": "Puma",
+      "bagType": "Unisex Brand Logo Printed Backpack  ",
+      "bagRatings": 3.3,
+      "bagPrice": 1799,
+    "discountedPrice": 809,
+    "bagSize": "S",
+    "returnPolicy": "Easy 14 days returns and exchanges",
+    "bagDescription": "This sporty backpack offers ample storage with a large zip pocket, and external zip pocket for quick access to essentials.",
+    "bagImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733532747/Untitled_20_uvgiqr.png  "
+  },
+  {
+     "bagBrand": "Provogue",
+      "bagType": "Unisex Ergonomic Backpack With Reflective Strip & Rain Cover",
+      "bagRatings": 4.3,
+      "bagPrice": 4599,
+    "discountedPrice": 1011,
+    "bagSize": "Onesize",
+    "returnPolicy": "Easy 14 days returns and exchanges",
+    "bagDescription": "Olive green, black and yellow solid backpack. Padded ergonomic shoulder straps, has padded haul loop.",
+    "bagImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733532747/Untitled_19_dtbs94.png"
+  },
+  {
+     "bagBrand": "HRX",
+      "bagType": "Unisex Black & Navy Blue Large Backpack",
+      "bagRatings": 3.6,
+      "bagPrice": 4999,
+    "discountedPrice": 999,
+    "bagSize": "Onesize",
+    "returnPolicy": "Easy 14 days returns and exchanges",
+    "bagDescription": "Black and navy blue solid large fashion backpacks .Padded ergonomic shoulder straps, has padded haul loop. 2 main compartment with zip closure, has padded laptop",
+    "bagImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733533502/Untitled_26_ahweac.png"
+  },
+  {
+     "bagBrand": "Roadster",
+      "bagType": "Bent Cabin Trolly Suitcase ",
+      "bagRatings": 3.7,
+      "bagPrice": 7199,
+    "discountedPrice": 1871,
+    "bagSize": "S",
+    "returnPolicy": "Easy 30 days returns and exchanges",
+    "bagDescription": "Red textured hard-sided cabin trolley suitcase, secured with number lock.",
+    "bagImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733533503/Untitled_29_olonou.png"
+  },
+  {
+     "bagBrand": "Kenneth Cole",
+      "bagType": "Hard-Sided Cabin Trolley Suitcase 50 Litres",
+      "bagRatings": 1.3,
+      "bagPrice": 8990,
+    "discountedPrice": 2876,
+    "bagSize": "S",
+    "returnPolicy": "Easy 14 days returns and exchanges",
+    "bagDescription": "Rose Gold solid hard-sided cabin trolley suitcase, secured with number lock.",
+    "bagImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733533502/Untitled_25_jsmnni.png"
+  },
+  {
+     "bagBrand": "Mokobara",
+      "bagType": "The Transit Luggage Hard-Sided Cabin Trolley Bag",
+      "bagRatings": 2.2,
+      "bagPrice": 11999,
+    "discountedPrice": 4799,
+    "bagSize": "S",
+    "returnPolicy": "Easy 14 days returns and exchanges",
+    "bagDescription": "Black textured hard-sided trolley suitcase, secured with number lock",
+    "bagImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733533501/Untitled_28_iptfhe.png"
+  },
+  {
+    "bagBrand": "Delsey",
+      "bagType": "Paris Ophelie Textured Hard-Sided Cabin Trolley Suitcase",
+      "bagRatings": 3.9,
+      "bagPrice": 15100,
+    "discountedPrice": 6040,
+    "bagSize": "S",
+    "returnPolicy": "Easy 14 days returns and exchanges",
+    "bagDescription": "Blue textured hard-sided cabin trolley suitcase, secured with TSA combination lock",
+    "bagImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733533501/Untitled_24_vhh59v.png"
+  },
+  {
+     "bagBrand": "Assembly",
+      "bagType": "Textured 360 Degree Rotation Hard Large-Sized Trolley Bag 85L",
+      "bagRatings": 2.5,
+      "bagPrice": 9949,
+    "discountedPrice": 6499,
+    "bagSize": "L",
+    "returnPolicy": "Easy 7 days returns and exchanges",
+    "bagDescription": "One handle on the top, has a retractable trolley handle with 360 degree rotatable corner-mounted inline skate wheels",
+    "bagImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733533501/Untitled_27_yjzymh.png"
+  },
+  {
+    "bagBrand": "Skybags",
+      "bagType": "Unisex Striped Expandable Soft Shell Trolley Suitcase",
+      "bagRatings": 2.3,
+      "bagPrice": 5292,
+    "discountedPrice": 11760,
+    "bagSize": "M",
+    "returnPolicy": "Easy 14 days returns and exchanges",
+    "bagDescription": "Black striped expandable soft shell medium-sized trolley suitcase, secured with a TSA lock",
+    "bagImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733533501/Untitled_22_q6znfi.png"
+  },
+  {
+    "bagBrand": "Syga",
+      "bagType": "Unisex Padded Backpack",
+      "bagRatings": 3.4,
+      "bagPrice": 1300,
+    "discountedPrice": 949,
+    "bagSize": "Onesize",
+    "returnPolicy": "Easy 14 days returns and exchanges",
+    "bagDescription": "Black solid fashion backpack Ergonomic shoulder straps, has padded haul loop 2 main compartment with zip closure, has padded laptop compartment, has a tablet sleeve",
+    "bagImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733533501/Untitled_21_gkunfq.png"
+  }
+]

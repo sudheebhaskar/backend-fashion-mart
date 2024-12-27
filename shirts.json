@@ -1,0 +1,129 @@
+[
+  {
+   "shirtBrand": "HERE&NOW",
+    "shirtName": "Men Casual Slim Fit Shirt",
+    "ratings": 4.7,
+    "shirtColor": "Blue",
+    "shirtSize":   42,
+    "shirtPrice": 999,
+    "shirtImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733556155/Untitled_45_utbbc1.png"
+  },
+  {
+   "shirtBrand": "Roadster",
+    "shirtName": "Men Casual Slim Fit Shirt",
+    "ratings": 3.9,
+    "shirtColor": "Maroon",
+    "shirtSize":   40,
+    "shirtPrice": 899,
+    "shirtImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733556155/Untitled_34_eazt0i.png"
+  },
+  {
+   "shirtBrand": "HighLander",
+    "shirtName": "Men Casual Slim Fit Shirt",
+    "ratings": 1.4,
+    "shirtColor": "Sky-Blue",
+    "shirtSize":   38,
+    "shirtPrice": 1290,
+    "shirtImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733556154/Untitled_32_r8zozx.png"
+  },
+  {
+   "shirtBrand": "Red Flame",
+    "shirtName": "Men Casual Slim Fit Shirt",
+    "ratings": 1.5,
+    "shirtColor": "Cream",
+    "shirtSize":   44,
+    "shirtPrice": 499,
+    "shirtImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733556154/Untitled_35_rpkapa.png"
+  },
+  {
+   "shirtBrand": "FITHUB",
+    "shirtName": "Men Casual Slim Fit Shirt",
+    "ratings": 2.3,
+    "shirtColor": "Green",
+    "shirtSize":   42,
+    "shirtPrice": 599,
+    "shirtImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733556154/Untitled_33_fcxlmx.png"
+  },
+  {
+   "shirtBrand": "DressBerry",
+    "shirtName": "Men Casual Slim Fit Shirt",
+    "ratings": 3.9,
+    "shirtColor": "Pink",
+    "shirtSize":   46,
+    "shirtPrice": 1099,
+    "shirtImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733556154/Untitled_44_xyrfvs.png"
+  },
+  {
+   "shirtBrand": "Ether",
+    "shirtName": "Men Casual Slim Fit Shirt",
+    "ratings": 4.9,
+    "shirtColor": "Black",
+    "shirtSize":   42,
+    "shirtPrice": 1069,
+    "shirtImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733556154/Untitled_31_whkhdr.png"
+  },
+  {
+   "shirtBrand": "Majestic Man",
+    "shirtName": "Men Casual Slim Fit Shirt",
+    "ratings": 4.2,
+    "shirtColor": "Dark Blue",
+    "shirtSize":   42,
+    "shirtPrice": 2399,
+    "shirtImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733556154/Untitled_37_stccf0.png"
+  },
+  {
+   "shirtBrand": "HERE&NOW",
+    "shirtName": "Men Casual Slim Fit Shirt",
+    "ratings": 2.2,
+    "shirtColor": "White",
+    "shirtSize":   40,
+    "shirtPrice": 799,
+    "shirtImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733556153/Untitled_38_vqv9ik.png"
+  },
+  {
+   "shirtBrand": "Roadster",
+    "shirtName": "Men Casual Slim Fit Shirt",
+    "ratings": 4.6,
+    "shirtColor": "Red",
+    "shirtSize":   44,
+    "shirtPrice": 1890,
+    "shirtImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733556153/Untitled_43_qxgfs2.png"
+  },
+  {
+   "shirtBrand": "Jack & Jones",
+    "shirtName": "Men Casual Slim Fit Shirt",
+    "ratings": 2.9,
+    "shirtColor": "Red",
+    "shirtSize":   42,
+    "shirtPrice": 599,
+    "shirtImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733556153/Untitled_41_ffb9z1.png"
+  },
+  {
+    "shirtBrand": "The Indian Garage Co  ",
+    "shirtName": "Men Casual Slim Fit Shirt",
+    "ratings": 3.6,
+    "shirtColor": "Red",
+    "shirtSize":   40,
+    "shirtPrice": 749,
+    "shirtImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733556153/Untitled_42_cclnp8.png"
+  },
+  {
+    "shirtBrand": "Moda Rapido  ",
+    "shirtName": "Men Casual Slim Fit Shirt",
+    "ratings": 3.5,
+    "shirtColor": "Grey",
+    "shirtSize":   46,
+    "shirtPrice": 799,
+    "shirtImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733556153/Untitled_36_fsenz2.png"
+  },
+  {
+    "shirtBrand": "HIGHLANDER",
+    "shirtName": "Men Casual Slim Fit Shirt",
+    "ratings": 3.1,
+    "shirtColor": "White",
+    "shirtSize":   42,
+    "shirtPrice": 999,
+    "shirtImage": "https://res.cloudinary.com/djain1xja/image/upload/v1733556153/Untitled_30_vzlgly.png"
+  }
+]
+  
