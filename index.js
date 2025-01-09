@@ -21,26 +21,34 @@ initializeDatabase();
 const jsonData = fs.readFileSync("products.json", "utf-8");
 const productsData = JSON.parse(jsonData);
 
-function seedData(){
+async function seedData(){
   try{
     for(const productData of productsData){
-      const newProduct = new Product({
-        productBrandName: productData.productBrandName,
+      const existingProduct = await Product.findOne({ 
         productName: productData.productName,
-        productCategory: productData.productCategory,
-        productPrice: productData.productPrice,
-        productUserGender: productData.productUserGender,
-        productRating: productData.productRating,
-        productSize: productData.productSize,
-        productImage: productData.productImage,
-        productDescription: productData.productDescription,
-        productDiscountedPrice: productData.productDiscountedPrice,
-        productReturnPolicy: productData.productReturnPolicy
-         });
-      newProduct.save();
+        productBrandName: productData.productBrandName 
+      });
+      
+      if(!existingProduct) {
+        const newProduct = new Product({
+          productBrandName: productData.productBrandName,
+          productName: productData.productName,
+          productCategory: productData.productCategory,
+          productPrice: productData.productPrice,
+          productUserGender: productData.productUserGender,
+          productRating: productData.productRating,
+          productSize: productData.productSize,
+          productImage: productData.productImage,
+          productDescription: productData.productDescription,
+          productDiscountedPrice: productData.productDiscountedPrice,
+          productReturnPolicy: productData.productReturnPolicy
+        });
+        await newProduct.save();
+      }
     }
+    console.log("Data seeding completed");
   } catch (error){
-      console.log("Error seeding the data", error);
+    console.log("Error seeding the data", error);
   }
 }
 
