@@ -18,39 +18,39 @@ const Product = require("./models/products.model.js")
 app.use(express.json())
 initializeDatabase();
 
-const jsonData = fs.readFileSync("products.json", "utf-8");
-const productsData = JSON.parse(jsonData);
+// const jsonData = fs.readFileSync("products.json", "utf-8");
+// const productsData = JSON.parse(jsonData);
 
-async function seedData(){
-  try{
-    for(const productData of productsData){
-      const existingProduct = await Product.findOne({ 
-        productName: productData.productName,
-        productBrandName: productData.productBrandName 
-      });
+// async function seedData(){
+//   try{
+//     for(const productData of productsData){
+//       const existingProduct = await Product.findOne({ 
+//         productName: productData.productName,
+//         productBrandName: productData.productBrandName 
+//       });
       
-      if(!existingProduct) {
-        const newProduct = new Product({
-          productBrandName: productData.productBrandName,
-          productName: productData.productName,
-          productCategory: productData.productCategory,
-          productPrice: productData.productPrice,
-          productUserGender: productData.productUserGender,
-          productRating: productData.productRating,
-          productSize: productData.productSize,
-          productImage: productData.productImage,
-          productDescription: productData.productDescription,
-          productDiscountedPrice: productData.productDiscountedPrice,
-          productReturnPolicy: productData.productReturnPolicy
-        });
-        await newProduct.save();
-      }
-    }
-    console.log("Data seeding completed");
-  } catch (error){
-    console.log("Error seeding the data", error);
-  }
-}
+//       if(!existingProduct) {
+//         const newProduct = new Product({
+//           productBrandName: productData.productBrandName,
+//           productName: productData.productName,
+//           productCategory: productData.productCategory,
+//           productPrice: productData.productPrice,
+//           productUserGender: productData.productUserGender,
+//           productRating: productData.productRating,
+//           productSize: productData.productSize,
+//           productImage: productData.productImage,
+//           productDescription: productData.productDescription,
+//           productDiscountedPrice: productData.productDiscountedPrice,
+//           productReturnPolicy: productData.productReturnPolicy
+//         });
+//         await newProduct.save();
+//       }
+//     }
+//     console.log("Data seeding completed");
+//   } catch (error){
+//     console.log("Error seeding the data", error);
+//   }
+// }
 
 //seedData();
 
